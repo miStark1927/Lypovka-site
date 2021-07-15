@@ -1,0 +1,9 @@
+a:hover + .bloc-info {
+  transform: translateY(200px);
+  transition-duration: 5s;
+  display: block;
+}
+.block:hover {
+  transform: scale(1.05);
+  transition: 1.2s;
+}

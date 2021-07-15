@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.school {
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 30px;
+  text-align: center;
+}
+.school-text span {
+  font-size: 36px;
+  font-weight: 900;
+}
+.school-text {
+  font-size: 30px;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.school-img {
+  width: 80%;
+  height: 450px;
+  background: black;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 20px;
+}

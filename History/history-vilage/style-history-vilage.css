@@ -1,0 +1,90 @@
+main {
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+}
+.vilage-info {
+  width: 70%;
+  font-size: 30px;
+  text-align: center;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 3%;
+  padding-top: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.vilage-img {
+  width: 80%;
+  height: 450px;
+  background: black;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 20px;
+}
+.vilage-river {
+  width: 70%;
+  font-size: 30px;
+  text-align: center;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 3%;
+  padding-top: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.vilage-river-img {
+  width: 80%;
+  height: 450px;
+  background: black;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 20px;
+}
+.vilage-history {
+  width: 70%;
+  font-size: 30px;
+  text-align: center;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 3%;
+  padding-top: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.vilage-history span {
+  font-size: 40px;
+  font-weight: 900;
+}
+.vilage-history-img {
+  width: 80%;
+  height: 450px;
+  background: black;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 20px;
+}
+.vilage-history a {
+  text-decoration: none;
+  color: black;
+  text-decoration: underline;
+}
+.vilage-history .detali {
+  font-size: 20px;
+}
+.vilage-home {
+  width: 70%;
+  font-size: 30px;
+  text-align: center;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 3%;
+  padding-top: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.vilage-home-img {
+  width: 80%;
+  height: 450px;
+  background: black;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 20px;
+}

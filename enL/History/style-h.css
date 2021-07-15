@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  width: 100%;
+}
+header a {
+  text-decoration: none;
+  color: black;
+}
+header ul {
+  display: flex;
+  list-style: none;
+  margin-left: 20px;
+}
+header ul a {
+  text-decoration: none;
+}
+header ul li {
+  margin-left: 10px;
+  margin-top: 30px;
+  color: black;
+  font-size: 30px;
+  font-weight: 900;
+  font-family: "Comic Sans", cursive;
+}
+header ul a li {
+  margin-left: 10px;
+  margin-top: 30px;
+  color: black;
+  font-size: 30px;
+  font-weight: 900;
+  font-family: "Comic Sans", cursive;
+}
+.vilage {
+  font-size: 72px;
+  font-weight: 900;
+  font-family: Impact;
+  left: 40%;
+  position: absolute;
+}
+.info-block {
+  width: 97%;
+  height: 600px;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-top: 2%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.block {
+  width: 48.5%;
+  height: 350px;
+  background: red;
+  margin-left: 1%;
+  margin-top: 1%;
+  position: relative;
+}
+.block .img {
+  width: 100%;
+  height: 100%;
+}
+.block h3 {
+  position: absolute;
+  font-size: 42px;
+  padding: 20px;
+  color: white;
+  font-family: Coiny;
+  width: 100%;
+  z-index: 1;
+}
+.block a {
+  list-style: none;
+  color: black;
+}
+.backr-block {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+@font-face {
+  font-family: Coiny;
+  src: url(../font-family/Coiny.ttf);
+}
+.info-text {
+  position: absolute;
+  width: 100%;
+  font-size: 22px;
+  color: white;
+  top: 250px;
+  left: 20px;
+  z-index: 1;
+  opacity: 0;
+}

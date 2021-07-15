@@ -1,0 +1,25 @@
+.txt:hover {
+  opacity: 0.5;
+  transition: 1s;
+}
+.UA:hover {
+  color: yellow;
+}
+.EN:hover {
+  color: #000040;
+}
+
+.backr-block:hover {
+  background: black;
+  opacity: 0.5;
+  transition: 1.5s;
+}
+.backr-block:hover + .info-text {
+  opacity: 1;
+  transition: 1.5s;
+  z-index: 1;
+}
+.vilage:hover {
+  opacity: 0.8;
+  transition: 1s;
+}

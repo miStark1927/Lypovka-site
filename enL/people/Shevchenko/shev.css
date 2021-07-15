@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.box {
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 20%;
+  position: absolute;
+}
+.box span {
+  font-size: 23px;
+}
+.box span h4 {
+  font-size: 30px;
+  text-align: center;
+}
+.keys {
+  width: 20%;
+  height: 35%;
+  background: black;
+  position: absolute;
+  margin-left: 40%;
+  margin-right: 40%;
+  margin-top: 3%;
+}

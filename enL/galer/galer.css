@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.box {
+  width: 65%;
+  height: 500px;
+  margin-left: 17.5%;
+  margin-right: 17.5%;
+  margin-top: 8%;
+  position: absolute;
+}
+header a {
+  color: black;
+}
+.vilagee {
+  color: black;
+  font-size: 72px;
+  font-weight: 900;
+  font-family: Impact;
+  left: 40%;
+  position: absolute;
+}
+a .vilagee:hover {
+  opacity: 60%;
+  transition: 1.2s;
+}
+.txt {
+  font-size: 24px;
+}
